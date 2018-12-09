@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMB_proj1</string>
+
+    <string-array name="color_values">
+        <item>Czarny</item>
+        <item>Niebieski</item>
+        <item>Pomaranczowy</item>
+        <item>Zielony</item>
+    </string-array>
+
+</resources>

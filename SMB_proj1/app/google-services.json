@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "477132074266",
+    "firebase_url": "https://smbproj3.firebaseio.com",
+    "project_id": "smbproj3",
+    "storage_bucket": "smbproj3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477132074266:android:e8eeecce185b2a29",
+        "android_client_info": {
+          "package_name": "com.example.jarek.smbproj3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477132074266-634epb64bqpdhdugbdn1gg9ovh8vr1c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJOdkcdhKa0mt45tVNS5otzPDm2ZoUhs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
